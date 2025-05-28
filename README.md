@@ -1,1 +1,1 @@
-# Stock-market-prediction-lstm
+# stock_price_prediction
