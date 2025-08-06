@@ -1,1 +1,6 @@
-
+Python 3.7+
+TensorFlow / Keras
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
